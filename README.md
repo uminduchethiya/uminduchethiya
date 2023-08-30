@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Umindu Chethiya</h1>
 <h3 align="center">A passionate Software engineer from Sri Lanka</h3>
 
+<img align="center" alt="Coding" width="500px" height="250px" src="https://www.codecorners.com/wp-content/uploads/2018/05/senior-front-end-developer-openings-1.gif">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uminduchethiya&label=Profile%20views&color=0e75b6&style=flat" alt="uminduchethiya" /> </p>
