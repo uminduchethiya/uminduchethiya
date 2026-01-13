@@ -60,26 +60,3 @@ src="https://www.codecorners.com/wp-content/uploads/2018/05/senior-front-end-dev
 
 ### 📫 Contact
 - 📧 **Email:** uminduchethiya@gmail.com
-
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=uminduchethiya&show_icons=true&locale=en&layout=compact"
-    alt="uminduchethiya" />
-</p>
-
-<p>
-  &nbsp;
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=uminduchethiya&show_icons=true&locale=en"
-    alt="uminduchethiya" />
-</p>
-
-<p>
-  <img align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=uminduchethiya"
-    alt="uminduchethiya" />
-</p>
